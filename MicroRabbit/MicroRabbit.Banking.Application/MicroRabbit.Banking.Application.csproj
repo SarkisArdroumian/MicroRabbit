@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Microrabbit.Banking.Data\Microrabbit.Banking.Data.csproj" />
+  </ItemGroup>
+
 </Project>
